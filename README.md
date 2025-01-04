@@ -1,3 +1,3 @@
 # NASA-PROJECT
 
-PROJECT NASA is built with React JS and it also uses NASA's APOD API to fetch data. 
+PROJECT NASA is built with React JS and it uses NASA's APOD(ASTRONOMY PICTURE OF DAY) API.  
